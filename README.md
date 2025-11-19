@@ -30,5 +30,3 @@ you'll need to get an extension auth token from [the api](https://api.chub.ai/op
 
 Then in the GitHub project, go to Settings -> Secrets and Variables -> Actions ->
 Repository secrets -> New Repository Secret. Add the token with the name "CHUB_AUTH_TOKEN".
-
-The use of an IDE like Intellij is very strongly recommended.
